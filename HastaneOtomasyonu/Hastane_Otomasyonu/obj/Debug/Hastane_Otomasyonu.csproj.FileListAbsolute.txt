@@ -1,0 +1,93 @@
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmGirisler.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaGiris.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorDetay.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorGiris.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaDetay.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmBrans.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorBilgiDuzenle.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorPaneli.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDuyurular.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmRandevuListesi.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterDetay.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterGiris.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaKayit.resources
+C:\Users\sedat\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaBilgiDüzenle.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaBilgiDüzenle.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmBrans.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorBilgiDuzenle.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorDetay.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorGiris.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorPaneli.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDuyurular.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmGirisler.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaDetay.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaGiris.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmRandevuListesi.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterDetay.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterGiris.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaKayit.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaBilgiDüzenle.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmBrans.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorBilgiDuzenle.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorDetay.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorGiris.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorPaneli.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDuyurular.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmGirisler.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaDetay.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaGiris.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmRandevuListesi.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterDetay.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterGiris.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaKayit.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\sedat\source\repos\#-) C# aKAPSAMLI PROJELER\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaBilgiDüzenle.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmBrans.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorBilgiDuzenle.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorDetay.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorGiris.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDoktorPaneli.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmDuyurular.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmGirisler.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaDetay.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaGiris.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmRandevuListesi.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterDetay.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmSekreterGiris.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.FrmHastaKayit.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\7-) Hastane Otomasyonu(Admin Panelli)\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
